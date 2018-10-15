@@ -7,6 +7,10 @@
   text-align:center;
   line-height:normal;
 }
+._图片 {
+}
+.placeholder {
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -53,12 +57,21 @@
 }
 .arrow {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
 }
 .checkbox {
   text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+._流程形状 {
 }
 ._连接线 {
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -131,7 +144,7 @@
 }
 .icon {
 }
-._图片 {
+._图片1 {
 }
 .flow_shape {
 }
